@@ -1,0 +1,18 @@
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\bin\Debug\ROOM.exe.config
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\bin\Debug\ROOM.exe
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\bin\Debug\ROOM.pdb
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\obj\Debug\ROOM.csprojResolveAssemblyReference.cache
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\obj\Debug\ROOM.Properties.Resources.resources
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\obj\Debug\ROOM.csproj.GenerateResource.Cache
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\obj\Debug\ROOM.exe
+c:\users\k\documents\visual studio 2015\Projects\Detabase UI\ROOM\obj\Debug\ROOM.pdb
+C:\Users\K\Documents\Visual Studio 2015\Projects\Detabase UI\ROOM\obj\Debug\ROOM.Room.resources
+C:\Users\Rebecca\Desktop\dbm\ROOM\bin\Debug\ROOM.exe.config
+C:\Users\Rebecca\Desktop\dbm\ROOM\obj\Debug\ROOM.exe
+C:\Users\Rebecca\Desktop\dbm\ROOM\obj\Debug\ROOM.pdb
+C:\Users\Rebecca\Desktop\dbm\ROOM\bin\Debug\ROOM.exe
+C:\Users\Rebecca\Desktop\dbm\ROOM\bin\Debug\ROOM.pdb
+C:\Users\Rebecca\Desktop\dbm\ROOM\obj\Debug\ROOM.csprojResolveAssemblyReference.cache
+C:\Users\Rebecca\Desktop\dbm\ROOM\obj\Debug\ROOM.Room.resources
+C:\Users\Rebecca\Desktop\dbm\ROOM\obj\Debug\ROOM.Properties.Resources.resources
+C:\Users\Rebecca\Desktop\dbm\ROOM\obj\Debug\ROOM.csproj.GenerateResource.Cache
